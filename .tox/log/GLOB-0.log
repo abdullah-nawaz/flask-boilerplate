@@ -34,6 +34,7 @@ copying src/flask_boilerplate/api/__init__.py -> flask_boilerplate-0.1/src/flask
 copying src/flask_boilerplate/api/auth/__init__.py -> flask_boilerplate-0.1/src/flask_boilerplate/api/auth
 copying src/flask_boilerplate/api/widgets/__init__.py -> flask_boilerplate-0.1/src/flask_boilerplate/api/widgets
 copying src/flask_boilerplate/models/__init__.py -> flask_boilerplate-0.1/src/flask_boilerplate/models
+copying src/flask_boilerplate/models/user.py -> flask_boilerplate-0.1/src/flask_boilerplate/models
 copying src/flask_boilerplate/util/__init__.py -> flask_boilerplate-0.1/src/flask_boilerplate/util
 copying src/flask_boilerplate/util/datetime_util.py -> flask_boilerplate-0.1/src/flask_boilerplate/util
 copying src/flask_boilerplate/util/result.py -> flask_boilerplate-0.1/src/flask_boilerplate/util
@@ -61,6 +62,7 @@ adding 'flask_boilerplate-0.1/src/flask_boilerplate/__init__.py'
 adding 'flask_boilerplate-0.1/src/flask_boilerplate/util/result.py'
 adding 'flask_boilerplate-0.1/src/flask_boilerplate/util/datetime_util.py'
 adding 'flask_boilerplate-0.1/src/flask_boilerplate/util/__init__.py'
+adding 'flask_boilerplate-0.1/src/flask_boilerplate/models/user.py'
 adding 'flask_boilerplate-0.1/src/flask_boilerplate/models/__init__.py'
 adding 'flask_boilerplate-0.1/src/flask_boilerplate/api/widgets'
 adding 'flask_boilerplate-0.1/src/flask_boilerplate/api/auth'
