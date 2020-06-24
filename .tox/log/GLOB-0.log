@@ -32,6 +32,9 @@ copying src/flask_boilerplate.egg-info/requires.txt -> flask_boilerplate-0.1/src
 copying src/flask_boilerplate.egg-info/top_level.txt -> flask_boilerplate-0.1/src/flask_boilerplate.egg-info
 copying src/flask_boilerplate/api/__init__.py -> flask_boilerplate-0.1/src/flask_boilerplate/api
 copying src/flask_boilerplate/api/auth/__init__.py -> flask_boilerplate-0.1/src/flask_boilerplate/api/auth
+copying src/flask_boilerplate/api/auth/business.py -> flask_boilerplate-0.1/src/flask_boilerplate/api/auth
+copying src/flask_boilerplate/api/auth/dto.py -> flask_boilerplate-0.1/src/flask_boilerplate/api/auth
+copying src/flask_boilerplate/api/auth/endpoints.py -> flask_boilerplate-0.1/src/flask_boilerplate/api/auth
 copying src/flask_boilerplate/api/widgets/__init__.py -> flask_boilerplate-0.1/src/flask_boilerplate/api/widgets
 copying src/flask_boilerplate/models/__init__.py -> flask_boilerplate-0.1/src/flask_boilerplate/models
 copying src/flask_boilerplate/models/user.py -> flask_boilerplate-0.1/src/flask_boilerplate/models
@@ -68,5 +71,8 @@ adding 'flask_boilerplate-0.1/src/flask_boilerplate/api/widgets'
 adding 'flask_boilerplate-0.1/src/flask_boilerplate/api/auth'
 adding 'flask_boilerplate-0.1/src/flask_boilerplate/api/__init__.py'
 adding 'flask_boilerplate-0.1/src/flask_boilerplate/api/widgets/__init__.py'
+adding 'flask_boilerplate-0.1/src/flask_boilerplate/api/auth/business.py'
+adding 'flask_boilerplate-0.1/src/flask_boilerplate/api/auth/endpoints.py'
+adding 'flask_boilerplate-0.1/src/flask_boilerplate/api/auth/dto.py'
 adding 'flask_boilerplate-0.1/src/flask_boilerplate/api/auth/__init__.py'
 removing 'flask_boilerplate-0.1' (and everything under it)

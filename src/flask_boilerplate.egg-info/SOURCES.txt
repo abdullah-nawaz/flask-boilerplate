@@ -10,6 +10,9 @@ src/flask_boilerplate.egg-info/requires.txt
 src/flask_boilerplate.egg-info/top_level.txt
 src/flask_boilerplate/api/__init__.py
 src/flask_boilerplate/api/auth/__init__.py
+src/flask_boilerplate/api/auth/business.py
+src/flask_boilerplate/api/auth/dto.py
+src/flask_boilerplate/api/auth/endpoints.py
 src/flask_boilerplate/api/widgets/__init__.py
 src/flask_boilerplate/models/__init__.py
 src/flask_boilerplate/models/user.py
